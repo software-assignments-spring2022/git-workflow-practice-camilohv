@@ -15,4 +15,11 @@ I found this advice interesting. Not so much as for the advice itself, but becau
 ***Entry by Camilo Villavicencio***
 
 ---
+This was truly an interesting article!
+
+One piece of advice that resonated with me was number 1, where the author discusses the fact that there are many career pathways available to aspiring software engineers. Most importantly, because there are so many pathways, there are countless things to learn. As a student, such a prospect is equal parts daunting and exciting. However, I felt somewhat put at ease by the author's suggestion to simply accept that fact that those knowledge gaps exist and to simply enjoy the journey of learning from yourself and others.
+
+***Entry by David Leguisamo***
+
+---
 
